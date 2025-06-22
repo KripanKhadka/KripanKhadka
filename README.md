@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KripanKhadka
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML CSS Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning  OSCP
+- 💞️ I’m looking to collaborate on  hacking stuff
 - 📫 How to reach me cripankhadka19@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
