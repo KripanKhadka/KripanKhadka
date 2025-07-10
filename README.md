@@ -9,9 +9,9 @@
 - **Interests:** Penetration testing, bug bounties, web security
 
 ## 💻 Projects:
-- [SQL Injection Lab](https://github.com/KripanKhadka/SQL-Injection)
+- [SQL Injection Lab](https://github.com/KripanKhadka/SQL-Injection-Lab)
 - [Brute Force Attack Demo](https://github.com/KripanKhadka/Brute-Force-Attack)
-- [TryHackMe Progress](https://github.com/KripanKhadka/TryHackMe-Tasks)
+- [TryHackMe Progress](https://github.com/KripanKhadka/-TryHackMe-Tasks)
 
 ## 📫 Contact:
 - **Email:** ashketchium83@gmail.com
