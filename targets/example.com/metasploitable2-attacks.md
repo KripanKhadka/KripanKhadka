@@ -16,11 +16,15 @@ I conducted the nmap scan on the given IP so I could know the given vulnerabilit
 ![image](https://github.com/user-attachments/assets/9f995d14-400d-4f93-bd1c-167787794a72)
 21/tcp open  ftp     vsftpd 2.3.4
 ```
-
 You can see the result there is open port which is 21 and has vstfpd 2.3.4 as version which has exploitation 
 ```
 
-##💣 Exploitation (Metasploit)
+
+
+## 💣 Exploitation (Metasploit):
+
+
+
 ![image](https://github.com/user-attachments/assets/c787d4ae-13cf-4db1-85fb-4ae0b88b5677)
 ![image](https://github.com/user-attachments/assets/d9aa1f10-4700-4a71-8038-de4aed8aa8fd)
 ![image](https://github.com/user-attachments/assets/520ab200-1ae4-49fb-ac6e-7345660eede4)
