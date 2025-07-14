@@ -1,5 +1,4 @@
-# Day 2 of  writing something I have learned:
-# Day 2 – Exploit Report: vsftpd 2.3.4 Backdoor
+
 
 ## 🎯 Target Information
 - **Target IP**: `192.168.56.101`
